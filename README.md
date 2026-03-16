@@ -5,7 +5,7 @@
 
 <img src="Imagenes\ITESO.png"/>
 
-</div>Infraestructura_para_el_Desarrollo_Continuo\Proyecto\Proyecto_DesarrolloContinuo\Imagenes\diagrama_clases_stock.jpg
+</div>
 
 ---
 
