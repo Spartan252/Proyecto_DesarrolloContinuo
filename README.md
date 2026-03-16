@@ -3,7 +3,7 @@
 # Propuesta del Proyecto Final
 **Infraestructura para el Desarrollo Continuo**
 
-<img src="Imagenes\ITESO.png"/>
+<img src="Imagenes/ITESO.png"/>
 
 </div>
 
@@ -56,7 +56,7 @@ Habrán dos ambientes separados (**dev** y **prod**), pipeline CI/CD automatizad
 
 ### Diagrama de Clases — Usuario
 
-![Diagrama de clases - Esquema Usuario](Imagenes\diagrama_clases_usuario.png)
+![Diagrama de clases - Esquema Usuario](Imagenes/diagrama_clases_usuario.png)
 
 
 ### Esquema de Stock
@@ -87,7 +87,7 @@ Habrán dos ambientes separados (**dev** y **prod**), pipeline CI/CD automatizad
 
 ### Diagrama de Clases — Stock
 
-![Diagrama de clases - Esquema Stock](Imagenes\diagrama_clases_stock.jpg)
+![Diagrama de clases - Esquema Stock](Imagenes/diagrama_clases_stock.jpg)
 
 ---
 ---
@@ -153,7 +153,7 @@ Habrán dos ambientes separados (**dev** y **prod**), pipeline CI/CD automatizad
 
 ## Diagrama de Deployment
 
-![Diagrama de deployment](Imagenes\diagrama_deployment.png)
+![Diagrama de deployment](Imagenes/diagrama_deployment.png)
 
 
 ---
