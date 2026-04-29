@@ -1,0 +1,5 @@
+cloudflare_account_id         = "b25544ae795ea92299c3bed9e68ca225"
+github_owner                  = "Spartan252"
+github_repository             = "Proyecto_DesarrolloContinuo"
+cloudflare_pages_project_name = "e-stock-frontend"
+GITHUB_TOKEN = ""
